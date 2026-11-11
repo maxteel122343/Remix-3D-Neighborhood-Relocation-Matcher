@@ -1,0 +1,8 @@
+{
+  "name": "Remix 3D Neighborhood Relocation Matcher",
+  "description": "The 3D Neighborhood Relocation Matcher is an interactive home discovery application that pairs relocating buyers with candidate neighborhoods and properties through dual-commute optimization, neighborhood vibe profiling, 15-minute walkability radii, and cinematic 3D realtor tours. The demo showcases Google AI Studio integration with Google Maps Platform by pairing Photorealistic 3D cityscapes, interactive 3D markers, and live Places API queries with Gemini 3.8 and Gemini TTS to generate personalized realtor summaries and voice pitches for each prospective home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
